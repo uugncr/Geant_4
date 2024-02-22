@@ -1,0 +1,8 @@
+/Users/uuu/Desktop/NaI_Eff/build2/CMakeFiles/install/local.dir
+/Users/uuu/Desktop/NaI_Eff/build2/CMakeFiles/install/strip.dir
+/Users/uuu/Desktop/NaI_Eff/build2/CMakeFiles/install.dir
+/Users/uuu/Desktop/NaI_Eff/build2/CMakeFiles/rebuild_cache.dir
+/Users/uuu/Desktop/NaI_Eff/build2/CMakeFiles/edit_cache.dir
+/Users/uuu/Desktop/NaI_Eff/build2/CMakeFiles/B1.dir
+/Users/uuu/Desktop/NaI_Eff/build2/CMakeFiles/list_install_components.dir
+/Users/uuu/Desktop/NaI_Eff/build2/CMakeFiles/NaIEff.dir

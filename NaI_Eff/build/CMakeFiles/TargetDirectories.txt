@@ -1,0 +1,8 @@
+/home/nuclear/G4Work/NaI_Eff/build/CMakeFiles/install/strip.dir
+/home/nuclear/G4Work/NaI_Eff/build/CMakeFiles/install/local.dir
+/home/nuclear/G4Work/NaI_Eff/build/CMakeFiles/install.dir
+/home/nuclear/G4Work/NaI_Eff/build/CMakeFiles/list_install_components.dir
+/home/nuclear/G4Work/NaI_Eff/build/CMakeFiles/rebuild_cache.dir
+/home/nuclear/G4Work/NaI_Eff/build/CMakeFiles/edit_cache.dir
+/home/nuclear/G4Work/NaI_Eff/build/CMakeFiles/B1.dir
+/home/nuclear/G4Work/NaI_Eff/build/CMakeFiles/NaIEff.dir
